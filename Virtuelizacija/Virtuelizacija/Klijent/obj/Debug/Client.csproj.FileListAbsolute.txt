@@ -1,0 +1,247 @@
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\bin\Debug\Common.dll
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+C:\Users\korisnik\Downloads\Virtuelizacija (1)\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+C:\Users\korisnik\Desktop\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+E:\Downloads\ProjekatVirtuelizcijaSaBazom\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+E:\Downloads\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.exe
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Klijent.pdb
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.dll
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\bin\Debug\Common.pdb
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.g.cs
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\App.g.cs
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.cache
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent_MarkupCompile.lref
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\MainWindow.baml
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.g.resources
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.exe
+C:\Users\Helena\Downloads\ZAVRSNOOO\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Klijent\obj\Debug\Klijent.pdb

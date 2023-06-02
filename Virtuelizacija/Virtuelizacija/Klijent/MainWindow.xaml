@@ -1,0 +1,50 @@
+﻿<Window x:Class="Klijent.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Klijent"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="670" Width="800">
+    <Grid Background="DarkGray">
+        <TextBlock Text="Evidencija prognozirane i ostvarene potrošnje električne energije" Padding="10 5 5 5" FontFamily="Constantia" FontSize="20" Margin="0,36,0,0" FontWeight="Bold" HorizontalAlignment="Center"/>
+        <Button x:Name="dodajSliku_Button" Click="IzaberiPutanju_Button_Click"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="86,130,0,0" Height="50" Width="75" >
+            <TextBlock Text="IZABERI PUTANJU" TextWrapping="Wrap" TextAlignment="Center" FontFamily="Constantia" FontSize="16" RenderTransformOrigin="0.953,0.572"/>
+        </Button>
+        <TextBlock x:Name="TextBlockPutanja" HorizontalAlignment="Left" VerticalAlignment="Top" Padding="10 15 30 30" Margin="214,107,0,0" Height="50" Width="538" />
+        <Button x:Name="ButtonPokreniCitanje" Click="PokreniCitanje_Button_Click" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,234,0,0" Height="50" Width="176" Content="POKRENI CITANJE" FontFamily="Constantia" FontSize="16"/>
+
+        <TextBlock x:Name="TextBlockGreska" HorizontalAlignment="Left" VerticalAlignment="Top" Padding="10 15 30 30" Margin="214,168,0,0" Height="50" Width="538" />
+        <DataGrid  x:Name="ViewDataGrid" IsReadOnly="True" GridLinesVisibility="Horizontal"
+                                     AutoGenerateColumns="False" Margin="113,307,112,183" RenderTransformOrigin="1.372,-0.075">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Path=Id}"/>
+                <DataGridTextColumn Header="TimeStamp" Binding="{Binding Path=Timestamp}"/>
+                <DataGridTextColumn Header="ForecastValue" Binding="{Binding Path=ForecastValue}"/>
+                <DataGridTextColumn Header="MeasuredtValue" Binding="{Binding Path=MeasuredtValue1}"/>
+                <DataGridTextColumn Header="AbsolutePercentageDeviation" Binding="{Binding Path=AbsolutePercentageDeviation}"/>
+                <DataGridTextColumn Header="SquaredDeviation" Binding="{Binding Path=SquaredDeviation}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid  x:Name="ViewDataGrid1" IsReadOnly="True" GridLinesVisibility="Horizontal"
+                                     AutoGenerateColumns="False" Margin="113,476,400,39">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Path=Id}"/>
+                <DataGridTextColumn Header="Timestamp" Binding="{Binding Path=Timestamp}"/>
+                <DataGridTextColumn Header="Message" Binding="{Binding Path=Message}"/>
+                <DataGridTextColumn Header="MessageType" Binding="{Binding Path=MessageType}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid  x:Name="ViewDataGrid2" IsReadOnly="True" GridLinesVisibility="Horizontal"
+                                     AutoGenerateColumns="False" Margin="405,476,112,39">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Id" Binding="{Binding Path=Id}"/>
+                <DataGridTextColumn Header="FileName" Binding="{Binding Path=FileName}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>

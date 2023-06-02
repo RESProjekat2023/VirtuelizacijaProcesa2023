@@ -1,0 +1,42 @@
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.dll
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.pdb
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.dll
+E:\Downloads\virtuelizacija\virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.pdb
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.dll
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.dll
+C:\Users\Helena\Desktop\PROJEKAT VIRT FINAL\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.pdb
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.dll
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.pdb
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.dll
+E:\Downloads\ProjekatVirtuelizcija_2\ProjekatVirtuelizcija (2)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.pdb
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.dll
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.pdb
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.dll
+C:\Users\Helena\Downloads\New folder (5)\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.pdb
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.dll
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.pdb
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.dll
+C:\Users\korisnik\Downloads\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.pdb
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.dll
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.pdb
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.dll
+E:\Downloads\ProjekatVirtuelizcija_2 (1)\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.pdb
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.dll
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\bin\Debug\Common.pdb
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.dll
+C:\Users\Helena\Downloads\VIRT\ProjekatVirtuelizcija\ProjekatVirtuelizcija\Virtuelizacija\Virtuelizacija\Common\obj\Debug\Common.pdb
